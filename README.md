@@ -5,3 +5,7 @@ QuickScore is a simple method of short answer scoring using keyword matching and
 -----
 
 A distributional semantic scorer (using word2vec embeddings) is included in the code. In order to use this scorer you need to download some pre-trained word2vec model from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit and load the model (which takes a few minutes in python code).
+
+-----
+
+Currently Server running can be accessed using 45.33.98.140:5000/api (Server could be shut down, if its down send an email to achellan@purdue.edu)
